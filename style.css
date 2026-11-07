@@ -1,0 +1,130 @@
+body{
+  text-align:center;
+  font-family: "Happy Monkey", system-ui;
+  font-weight: 400;
+  font-style: normal;
+  background: linear-gradient(to bottom, #a2d2ff, #EFB0C9);
+  color:#ffffff;
+  
+
+
+}
+#img{
+    width:150px;
+    border-radius:50%;
+    border:6px solid pink;
+}
+h1,h2,h3,h4{
+    text-shadow: 5px 0px 5px black;
+}
+#bdy-age{
+    background-color:pink;
+}
+#bdy-date{
+    background-color:pink;
+}
+#header{
+    display:flex;
+    flex-direction:column;
+    align-items:center;
+}
+#bdy-age{
+    padding-top:10px;
+    padding-bottom:10px;
+    padding-left:5px;
+    padding-right:5px;
+    border-radius:6px;
+    margin-bottom:10px;
+    margin-top:5px;
+}
+#bdy-date{
+    padding-top:10px;
+    padding-bottom:10px;
+    padding-left:5px;
+    padding-right:5px;
+    border-radius:6px;
+    margin-top:5px;
+    margin-bottom:10px;
+}
+.gift-section{
+    margin-top:60px;
+}
+.gift-tittle{
+    margin-bottom:0;
+
+}
+.gift-hint{
+    margin-top:10px;
+}
+.gift-img{
+    width:400px;
+    border: 6px solid white;
+    border-radius:10px;
+    height:400px;
+    background-image: url(OPI.jpg);
+    justify-content: center;
+    background-size: cover;
+    margin-left:auto;
+    margin-right:auto;
+}
+.gift-img:hover{
+    background-image: url(GIF.webp);
+}
+.gift-img1{
+    width:400px;
+    border: 6px solid white;
+    border-radius:10px;
+    height:400px;
+    background-image: url(OPI.jpg);
+    justify-content: center;
+    background-size: cover;
+    margin-left:auto;
+    margin-right:auto;
+}
+.gift-img1:hover{
+    background-image:url(happy.gif);
+
+}
+.gift-img2{
+    width:400px;
+    border: 6px solid white;
+    border-radius:10px;
+    height:400px;
+    background-image: url(OPI.jpg);
+    justify-content: center;
+    background-size: cover;
+    margin-left:auto;
+    margin-right:auto;
+}
+
+.gift-img2:hover{
+    background-image:url(genius.gif)
+}
+.gift-img3{
+     width:400px;
+    border: 6px solid white;
+    border-radius:10px;
+    height:400px;
+    background-image: url(OPI.jpg);
+    justify-content: center;
+    background-size: cover;
+    margin-left:auto;
+    margin-right:auto;
+
+}
+.gift-img3:hover{
+    background-image:url(badass.gif);
+}
+.ctn{
+    text-decoration:underline;
+    color:white;
+    font-style:italic;
+    
+}
+#fotter{
+    display:block;
+    margin-top:40px;
+    margin-bottom:40px;
+    margin-left:auto;
+    margin-right:auto;
+}
